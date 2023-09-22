@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	width:100%;
+}
+
+.main{
+	margin: 20px;
+	padding: 20px;
+}
+
+.navLogo{
+	width: 30%;
+	height: auto;
+}
+
+.footerLogo{
+	width: 90%;
+	height: auto;
+	border-radius: 60px;
+	margin: auto;
+}
+
+.col-3-Image{
+	width: 100%;
+	height: auto;
+}
+
+.col-9{
+	padding: 10px;
+}
+
+.footer{
+	width: 100vw!important;
+	margin-top: 40px;
+	padding: 20px;
+	background-color: grey;
+}
+
+.footer h2,
+.footer p{
+	color: white;
+}
+
+.footer a{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.footer a:hover{
+	color: blue;
+	font-size: 1.2rem;
+}
